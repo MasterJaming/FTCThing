@@ -3,5 +3,4 @@ public class Kim {
     int age;
     double weight;
     double height;
-
 }
